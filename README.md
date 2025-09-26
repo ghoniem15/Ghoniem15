@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-<h2 align="left">Hi 👋! I'm [Ghoniem Mohamed]</h2>
+<h2 align="left">Hi 👋! I'm Ghoniem Mohamed </h2>
 
 <h3 align="center">💻 [Your Profession] | Passionate about creating modern, responsive web experiences</h3>
 
